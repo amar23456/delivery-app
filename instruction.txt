@@ -1,0 +1,6 @@
+These are the first five pages:
+Home page (send mode)
+Creating delivery
+Login / Registration page
+Couriers who asked for "Give" (at this point all users will be presented as couriers who are willing to carry out the courier)
+Full agreement
